@@ -25,10 +25,9 @@ nav a {
 
 #details {
   display: block;
-  float: left;
 }
 
 #details div {
-  
+  float: left;
 }
 
