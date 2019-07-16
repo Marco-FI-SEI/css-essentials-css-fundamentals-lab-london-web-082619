@@ -9,7 +9,9 @@ header, #featured-property {
 }
 
 nav a {
-  padding: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: 
 }
 
 #featured-property p {
