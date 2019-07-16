@@ -14,6 +14,10 @@ nav a {
   background-color: grey;
 }
 
+#featured-property figcaption {
+  font-size: 500px;
+}
+
 #featured-property p {
   padding-left: 200px;
   padding-right: 200px;
