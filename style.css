@@ -1,7 +1,7 @@
 body {
   width: 100%;
   height: 100%;
-  margin: 0;
+  margin: 0 auto;
 }
 
 header, #featured-property {
@@ -10,6 +10,10 @@ header, #featured-property {
 
 nav a {
   padding: 10px;
+}
+
+#featured-property {
+  padding
 }
 
 
